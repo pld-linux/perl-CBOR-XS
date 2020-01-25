@@ -4,7 +4,6 @@
 
 %define	pdir	CBOR
 %define	pnam	XS
-%include	/usr/lib/rpm/macros.perl
 Summary:	CBOR::XS - Concise Binary Object Representation (CBOR, RFC7049)
 Summary(pl.UTF-8):	CBOR::XS - Concise Binary Object Representation (CBOR, RFC7049)
 Name:		perl-CBOR-XS
