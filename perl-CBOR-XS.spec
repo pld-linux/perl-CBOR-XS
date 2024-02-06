@@ -7,14 +7,14 @@
 Summary:	CBOR::XS - Concise Binary Object Representation (CBOR, RFC7049)
 Summary(pl.UTF-8):	CBOR::XS - Concise Binary Object Representation (CBOR, RFC7049)
 Name:		perl-CBOR-XS
-Version:	1.7
+Version:	1.87
 Release:	1
 Epoch:		2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/M/ML/MLEHMANN/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	dfe163f8b9d9a890a445bced9cba1cca
+# Source0-md5:	ecbfd81806ce2f71952f724eb42c6f35
 URL:		http://search.cpan.org/dist/CBOR-XS/
 BuildRequires:	perl-Canary-Stability
 BuildRequires:	perl-devel >= 1:5.8.0
